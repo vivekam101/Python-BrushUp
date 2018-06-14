@@ -1,2 +1,2 @@
 # Python-BrushUp
-Splitwise - Using python3 implement splitwise app
+1. Splitwise - Implementing splitwise app using some oops

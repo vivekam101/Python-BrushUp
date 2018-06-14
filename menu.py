@@ -74,3 +74,117 @@ class Menu:
 
 if __name__ == '__main__':
     Menu().run()
+    
+    
+    
+  """
+  OUTPUT
+  
+  C:\Users\vitv.ORADEV\AppData\Local\Continuum\anaconda2\envs\untitled1\python.exe "C:/Users/vitv.ORADEV/Desktop/Andrew NG/Kaggle/Python-OOPS/Notebook/menu.py"
+ 
+                       Menu
+-----------------------------------------------------------
+
+                     1. Add notes
+
+                     2. Modify notes or tags
+
+                     3. Append notes or tags
+
+                     4. Search notes
+
+                     5. Display notes
+
+                     6. Quit
+
+Please enter your choice: 1
+Please enter your memo: Vivek is in kerala
+Please enter your tags: kerala
+Note added
+ 
+                       Menu
+-----------------------------------------------------------
+
+                     1. Add notes
+
+                     2. Modify notes or tags
+
+                     3. Append notes or tags
+
+                     4. Search notes
+
+                     5. Display notes
+
+                     6. Quit
+
+Please enter your choice: 2
+Please let me know the Note id: 1
+Please let me know the updated Note memo: Vivek is from kerala
+Please let me know the updated Note tags: 
+ 
+                       Menu
+-----------------------------------------------------------
+
+                     1. Add notes
+
+                     2. Modify notes or tags
+
+                     3. Append notes or tags
+
+                     4. Search notes
+
+                     5. Display notes
+
+                     6. Quit
+
+Please enter your choice: 5
+Id: 1
+ date: 2018-06-14
+ Memo: Vivek is from kerala
+ Tags: kerala
+
+
+ 
+                       Menu
+-----------------------------------------------------------
+
+                     1. Add notes
+
+                     2. Modify notes or tags
+
+                     3. Append notes or tags
+
+                     4. Search notes
+
+                     5. Display notes
+
+                     6. Quit
+
+Please enter your choice: 3
+Please let me know the Note id: 1
+Please let me know the memo to be appended: He is enjoyin rain
+Please let me know the tags to be appended: 
+ 
+                       Menu
+-----------------------------------------------------------
+
+                     1. Add notes
+
+                     2. Modify notes or tags
+
+                     3. Append notes or tags
+
+                     4. Search notes
+
+                     5. Display notes
+
+                     6. Quit
+
+Please enter your choice: 5
+Id: 1
+ date: 2018-06-14
+ Memo: Vivek is from keralaHe is enjoyin rain
+ Tags: kerala
+
+
+""""
